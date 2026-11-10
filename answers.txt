@@ -1,0 +1,18 @@
+# Exercise: Your Toolkit, Version 1
+#
+# Answer each question on its numbered line, after the ")". Write only the answer, like the example.
+#
+# Example: which command lists every alias the shell knows?
+# 0) alias
+
+# 1. On Ubuntu, which file in your home folder does bash read every time a new terminal opens?
+1)
+
+# 2. From this exercise's folder, which command loads toolkit/bash_aliases into the shell you're typing in?
+2)
+
+# 3. On Ubuntu, which command shows whether jq is installed, and which version you'd get, without changing anything?
+3)
+
+# 4. Which one command installs tree, htop, jq and tldr on your computer? (Write it for Ubuntu or for a Mac.)
+4)

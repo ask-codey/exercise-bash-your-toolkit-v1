@@ -1,0 +1,22 @@
+# Your toolkit, version 1: the shortcuts you want in every terminal.
+# Load it into the shell you're in with:  source toolkit/bash_aliases
+# Each job below says what to add, on the empty line under it. The example is done for you.
+
+# Example: c clears the screen.
+alias c='clear'
+
+# 1. ll: a long list of a folder, hidden files included, with sizes such as 2.0K.
+
+# 2. ..: go up one folder.
+
+# 3. rm: ask before deleting each file.
+
+# 4. mkcd: a function that makes a folder, and any folders on the way to it, then goes into it.
+#    mkcd "trip photos/day 1" must work, spaces and all.
+
+# 5. bak: a function that copies a file to the same name with .bak on the end,
+#    so bak notes.txt makes notes.txt.bak.
+
+# 6. Your prompt: a PS1 with the folder you're in, at least one color (each color code
+#    inside \[ and \]), the color set back to normal, and \$ at the end.
+
